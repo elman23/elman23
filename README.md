@@ -3,5 +3,5 @@
 About me:
 
 - 🔭 Backend developer.
-- 🌱 Learning Python and Machine Learning.
+- 🌱 Learning Machine Learning 😉.
 - 📫 More: https://elman23.github.io/.
