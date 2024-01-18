@@ -2,6 +2,6 @@
 
 About me:
 
-- 🔭 Backend developer.
+- 💻 Backend developer.
 - 🌱 Learning Machine Learning 😉.
-- 📫 More: https://elman23.github.io/.
+- 🌐 More: https://elman23.github.io/.
