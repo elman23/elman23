@@ -2,8 +2,8 @@
 
 About me:
 
-- 💻 Backend developer 🧑‍💻
-- 🌱 Learning Machine Learning 😉
+- 📚 PhD in Mathematics 👨‍🎓
+- 💻 Software developer 🧑‍💻
 - 🌐 More: https://elman23.github.io/ 🕸️
 
 ### Languages and Tools
